@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=LD1085V50
+PartCategory=Integrated Circuit
+PackageCategory=Transistor Outline, Vertical
+PinCount=3
+Version=2.1
+Released=2015-07-22 14:47:11
+Downloaded=2024-10-25 22:06:31
+3D=Y

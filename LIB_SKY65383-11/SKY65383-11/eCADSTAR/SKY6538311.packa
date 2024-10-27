@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SKY65383-11"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-07-19-04:55:14)
+    (mountForm default
+        (footprintRef "SKY6538311")
+        (spec "System")
+    )
+)

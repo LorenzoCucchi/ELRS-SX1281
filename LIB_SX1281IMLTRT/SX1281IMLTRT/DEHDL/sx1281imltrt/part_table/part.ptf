@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SX1281IMLTRT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SEMTECH", "SX1281IMLTRT" (!) = "", "QFN50P400X400X100-25N-D", "Quad Flat No-Lead", "947-SX1281IMLTRT", "https://www.mouser.co.uk/ProductDetail/Semtech/SX1281IMLTRT?qs=5aG0NVq1C4xR1aFoShVcjg%3D%3D", "RF Transceiver PreProduction Sample Wireless Transceiver", "https://www.arrow.com/en/products/sx1281imltrt/semtech", "1 mm"
+END_PART
+
+END.

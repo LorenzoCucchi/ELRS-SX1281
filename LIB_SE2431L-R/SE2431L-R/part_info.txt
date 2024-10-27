@@ -1,0 +1,9 @@
+Manufacturer=Skyworks
+PartNumber=SE2431L-R
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=2.1
+Released=2019-03-17 10:22:33
+Downloaded=2024-10-24 21:04:39
+3D=Y

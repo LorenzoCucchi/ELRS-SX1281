@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=LD1085D2T33R
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=2.1
+Released=2015-11-09 14:24:38
+Downloaded=2024-10-26 09:25:59
+3D=Y

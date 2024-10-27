@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SX1281IMLTRT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-07-20-13:37:38)
+    (mountForm default
+        (footprintRef "QFN50P400X400X100-25N-D")
+        (spec "System")
+    )
+)

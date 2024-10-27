@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SKY65383_11'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Skyworks", "SKY65383-11" (!) = "", "SKY6538311", "Other", "873-SKY65383-11", "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY65383-11?qs=4FzvMsMEDjYVKiHkv3xavQ%3D%3D", "HIGH POWER 2.4-GHZ FEM", "https://componentsearchengine.com/Datasheets/1/SKY65383-11.pdf", "0.95 mm"
+END_PART
+
+END.

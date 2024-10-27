@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SKY65383")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_SKY65383-11/SKY65383-11/KiCad")(options "")(descr ""))
+  (lib (name "SX1281")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_SX1281IMLTRT/SX1281IMLTRT/KiCad")(options "")(descr ""))
+  (lib (name "ESP32-PICO-D4")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/ESP32-PICO-D4")(options "")(descr ""))
+  (lib (name "TPS7A2028")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_TPS7A20285PDBVR/TPS7A20285PDBVR/KiCad")(options "")(descr ""))
+  (lib (name "ECS-TXO-20CSMV4-520-AN-TR")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/ECS-TXO-20CSMV4-520-AN-TR")(options "")(descr ""))
+  (lib (name "LD1085D2T33R")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_LD1085D2T33R/LD1085D2T33R/KiCad")(options "")(descr ""))
+  (lib (name "2450AT140100T")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_2450AT14A0100T/2450AT14A0100T/KiCad")(options "")(descr ""))
+  (lib (name "LD1085V50")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_LD1085V50/LD1085V50/KiCad")(options "")(descr ""))
+  (lib (name "DEA202450BT")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_DEA202450BT-1213C1/DEA202450BT-1213C1/KiCad")(options "")(descr ""))
+)

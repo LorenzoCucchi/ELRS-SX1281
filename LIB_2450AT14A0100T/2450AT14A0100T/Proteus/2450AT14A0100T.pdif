@@ -1,0 +1,100 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "2450AT14A0100T"
+   (description "Antennas SMALL AREA 2.4G ANT")
+   (family "ANA")
+   (package "ANTC1608X40N")
+   (attribute "Datasheet Link" "https://www.johansontechnology.com/datasheets/2450AT14A0100/2450AT14A0100.pdf")
+   (attribute "Geometry.Height" "0.4mm")
+   (attribute "Mouser Part Number" "609-2450AT14A0100T")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Johanson-Technology/2450AT14A0100T?qs=YCa%2FAAYMW01CU618jkZ%252BCw%3D%3D")
+   (attribute "Manufacturer_Name" "JOHANSON TECHNOLOGY")
+   (attribute "Manufacturer_Part_Number" "2450AT14A0100T")
+   (gate
+    (symbol "2450AT14A0100T")
+    (pin "FEED" 1 IP)
+    (pin "NC" 2 NC)
+   )
+  )
+  (symbol "2450AT14A0100T"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ANTC1608X40N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.675 0.925)
+      (pt 1.675 0.925)
+      (pt 1.675 -0.925)
+      (pt -1.675 -0.925)
+      (pt -1.675 0.925))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 0.4)
+      (pt 0.8 0.4)
+      (pt 0.8 -0.4)
+      (pt -0.8 -0.4)
+      (pt -0.8 0.4))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.8 0.025)
+      (pt -0.425 0.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0.85 0.825)
+      (pt -1.575 0.825)
+      (pt -1.575 -0.825)
+      (pt 0.85 -0.825))))
+   (leg 1 (pt -0.85 0) (padstack 0))
+   (leg 2 (pt 0.85 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.75 0.95 0 0 90))
+   )
+   (model "2450AT14A0100T.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

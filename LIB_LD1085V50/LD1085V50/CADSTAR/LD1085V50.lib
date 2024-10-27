@@ -1,0 +1,16 @@
+.LD1085V50 :1 ;LD1085V50, Low Dropout Voltage Regulator, 3A, 5 V +/-1%, 3-Pin TO-220
+TO255P460X1020X2008-3P
+*STM IC
+*NGS
+*PLB 1="ADJ/GND" 2="OUTPUT" 3="INPUT"
+*MXP 3
+*DFN LD1085V50
+~!Mouser Part Number (511-LD1085V50)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LD1085V50?qs=9iSXU9KXrZlaERTj280krQ%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (LD1085V50)
+~!Link Datasheet (http://www.st.com/web/en/resource/technical/document/datasheet/CD00001883.pdf)
+~!Height (4.6mm)
+~!3D_Model (LD1085V50)
+LD1085V50
+1.1!U 2.1!U 3.1!U 

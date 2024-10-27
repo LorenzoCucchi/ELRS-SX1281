@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DEA202450BT1213C1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DEA202450BT1213C1")
+        (spec "default")
+    )
+)

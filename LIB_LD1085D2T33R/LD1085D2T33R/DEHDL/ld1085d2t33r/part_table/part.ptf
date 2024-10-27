@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LD1085D2T33R'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "STMicroelectronics", "LD1085D2T33R" (!) = "", "LD1085D2T33R", "Other", "511-LD1085D2T33-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LD1085D2T33R?qs=%252BlpsHQzXjw%252B%2FdNCHtZO2HA%3D%3D", "LD1085D2T33R, Low Dropout Voltage Regulator, 3A, 3.3 V +/-1%, 3-Pin D2PAK", "http://www.st.com/web/en/resource/technical/document/datasheet/CD00001883.pdf"
+END_PART
+
+END.

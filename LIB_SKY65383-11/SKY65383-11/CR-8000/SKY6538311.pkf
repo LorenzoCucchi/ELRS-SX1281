@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SKY6538311"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SKY6538311")
+        (spec "default")
+    )
+)

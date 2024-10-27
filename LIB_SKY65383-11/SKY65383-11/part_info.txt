@@ -1,0 +1,9 @@
+Manufacturer=Skyworks
+PartNumber=SKY65383-11
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=29
+Version=1.1
+Released=2023-07-19 04:55:14
+Downloaded=2024-10-25 20:11:57
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=DEA202450BT-1213C1
+PartCategory=Filter
+PackageCategory=Other
+PinCount=4
+Version=4.4
+Released=2020-08-16 07:22:48
+Downloaded=2024-10-27 11:56:56
+3D=Y

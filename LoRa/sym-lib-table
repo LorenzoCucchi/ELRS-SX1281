@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-PICO-D4")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/ESP32-PICO-D4/ESP32-PICO-D4.kicad_sym")(options "")(descr ""))
+  (lib (name "SX1281IMLTRT")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_SX1281IMLTRT/SX1281IMLTRT/KiCad/SX1281IMLTRT.kicad_sym")(options "")(descr ""))
+  (lib (name "SE2431L-R")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_SE2431L-R/SE2431L-R/KiCad/SE2431L-R.kicad_sym")(options "")(descr ""))
+  (lib (name "SKY65383-11")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_SKY65383-11/SKY65383-11/KiCad/SKY65383-11.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7A20285PDBVR")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_TPS7A20285PDBVR/TPS7A20285PDBVR/KiCad/TPS7A20285PDBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-TXO-20CSMV4-520-AN-TR")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/ECS-TXO-20CSMV4-520-AN-TR/ECS-TXO-20CSMV4-520-AN-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "LD1085V50")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_LD1085V50/LD1085V50/KiCad/LD1085V50.kicad_sym")(options "")(descr ""))
+  (lib (name "LD1085D2T33R")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_LD1085D2T33R/LD1085D2T33R/KiCad/LD1085D2T33R.kicad_sym")(options "")(descr ""))
+  (lib (name "2450AT14A0100T")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_2450AT14A0100T/2450AT14A0100T/KiCad/2450AT14A0100T.kicad_sym")(options "")(descr ""))
+  (lib (name "DEA202450BT-1213C1")(type "KiCad")(uri "/home/lorenzo/Documents/crater/LoRa-24/LIB_DEA202450BT-1213C1/DEA202450BT-1213C1/KiCad/DEA202450BT-1213C1.kicad_sym")(options "")(descr ""))
+)

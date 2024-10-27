@@ -1,0 +1,16 @@
+.SE2431L-R :1 ;RF Front End 2.4GHz Zigbee Rx Gain 12.5 dB
+QFN40P300X400X90-25N-D
+*STM IC
+*NGS
+*PLB 1="B2" 2="B1" 3="N/C_1" 4="N/C_2" 5="N/C_3" 6="T/R" 7="N/C_4" 8="N/C_5" 9="GND_1" 10="GND_2" 11="GND_3" 12="GND_4" 13="ANT2" 14="GND_5" 15="ANT1" 16="ANT_SEL" 17="N/C_6" 18="GND_6" 19="VCC2" 20="CSD" 21="CPS" 22="VCC1" 23="BOUT" 24="CTX" 25="GND_7"
+*MXP 25
+*DFN SE2431L-R
+~!Mouser Part Number (873-SE2431L-R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SE2431L-R?qs=WMHGlxXAKT%2F78rTVRPIOpw%3D%3D)
+~!Manufacturer_Name (Skyworks)
+~!Manufacturer_Part_Number (SE2431L-R)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/379164.pdf)
+~!Height (0.9mm)
+~!3D_Model (SE2431L-R)
+SE2431L-R
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 

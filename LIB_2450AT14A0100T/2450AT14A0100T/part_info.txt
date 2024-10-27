@@ -1,0 +1,9 @@
+Manufacturer=JOHANSON TECHNOLOGY
+PartNumber=2450AT14A0100T
+PartCategory=Antenna
+PackageCategory=Antennas Chip
+PinCount=2
+Version=2.1
+Released=2019-02-04 14:17:03
+Downloaded=2024-10-26 20:26:00
+3D=Y

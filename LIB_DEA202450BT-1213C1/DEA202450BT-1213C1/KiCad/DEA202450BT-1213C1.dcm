@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DEA202450BT-1213C1
+D Filters, Pass Band=2400 to 2500MHz, Zc=50se | 50se
+K
+F https://product.tdk.com/system/files/dam/doc/product/rf/rf/filter/catalog/rf_bpf_dea202450bt-1213c1_en.pdf
+$ENDCMP
+#
+#End Doc Library

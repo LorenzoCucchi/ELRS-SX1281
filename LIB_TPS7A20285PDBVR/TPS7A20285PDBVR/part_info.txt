@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS7A20285PDBVR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2023-02-13 03:42:36
+Downloaded=2024-10-25 20:49:11
+3D=N

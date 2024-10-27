@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DEA202450BT_1213C1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TDK", "DEA202450BT-1213C1" (!) = "", "DEA202450BT1213C1", "Other", "810-DEA22450BT1213C1", "https://www.mouser.co.uk/ProductDetail/TDK/DEA202450BT-1213C1?qs=7SC5D5ZbtDsv%2F4GWPXRDsA%3D%3D", "Filters, Pass Band=2400 to 2500MHz, Zc=50se | 50se", "https://product.tdk.com/system/files/dam/doc/product/rf/rf/filter/catalog/rf_bpf_dea202450bt-1213c1_en.pdf", "1.05 mm"
+END_PART
+
+END.

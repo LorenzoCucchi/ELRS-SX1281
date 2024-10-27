@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SX1281IMLTRT
+D RF Transceiver PreProduction Sample Wireless Transceiver
+K
+F https://www.arrow.com/en/products/sx1281imltrt/semtech
+$ENDCMP
+#
+#End Doc Library

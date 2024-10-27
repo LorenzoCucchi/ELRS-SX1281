@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2450AT14A0100T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "JOHANSON TECHNOLOGY", "2450AT14A0100T" (!) = "", "ANTC1608X40N", "Antennas Chip", "609-2450AT14A0100T", "https://www.mouser.co.uk/ProductDetail/Johanson-Technology/2450AT14A0100T?qs=YCa%2FAAYMW01CU618jkZ%252BCw%3D%3D", "Antennas SMALL AREA 2.4G ANT", "https://www.johansontechnology.com/datasheets/2450AT14A0100/2450AT14A0100.pdf", "0.4 mm"
+END_PART
+
+END.

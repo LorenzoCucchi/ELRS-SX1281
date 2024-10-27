@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SE2431L-R
+D RF Front End 2.4GHz Zigbee Rx Gain 12.5 dB
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/379164.pdf
+$ENDCMP
+#
+#End Doc Library

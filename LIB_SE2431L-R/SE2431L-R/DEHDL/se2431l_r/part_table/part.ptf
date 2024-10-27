@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SE2431L_R'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Skyworks", "SE2431L-R" (!) = "", "QFN40P300X400X90-25N-D", "Quad Flat No-Lead", "873-SE2431L-R", "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SE2431L-R?qs=WMHGlxXAKT%2F78rTVRPIOpw%3D%3D", "RF Front End 2.4GHz Zigbee Rx Gain 12.5 dB", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/379164.pdf", "0.9 mm"
+END_PART
+
+END.

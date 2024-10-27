@@ -1,0 +1,16 @@
+.DEA202450BT-1213C1 :1 ;Filters, Pass Band=2400 to 2500MHz, Zc=50se | 50se
+DEA202450BT1213C1
+*STM FL
+*NGS
+*PLB 1="IN" 2="GND_1" 3="OUT" 4="GND_2"
+*MXP 4
+*DFN DEA202450BT-1213C1
+~!Mouser Part Number (810-DEA22450BT1213C1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/DEA202450BT-1213C1?qs=7SC5D5ZbtDsv%2F4GWPXRDsA%3D%3D)
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (DEA202450BT-1213C1)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/rf/rf/filter/catalog/rf_bpf_dea202450bt-1213c1_en.pdf)
+~!Height (1.05mm)
+~!3D_Model (DEA202450BT-1213C1)
+DEA202450BT-1213C1
+1.1!U 2.1!U 3.1!U 4.1!U 

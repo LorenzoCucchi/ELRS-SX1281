@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS7A20285PDBVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS7A20285PDBVR" (!) = "", "SOT95P280X145-5N", "SOT23 (5-Pin)", "595-TPS7A20285PDBVR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A20285PDBVR?qs=Jslch3jnSjk9qDduT6KLyw%3D%3D", "LDO Voltage Regulators 300-mA, ultra-low-noise, low-IQ, low-dropout (LDO) linear regulator with high PSRR", "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/tps7a20", "1.45 mm"
+END_PART
+
+END.

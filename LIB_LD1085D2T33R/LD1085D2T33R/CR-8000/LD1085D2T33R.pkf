@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LD1085D2T33R"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LD1085D2T33R")
+        (spec "default")
+    )
+)

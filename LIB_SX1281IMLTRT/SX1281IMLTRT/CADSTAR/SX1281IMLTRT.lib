@@ -1,0 +1,16 @@
+.SX1281IMLTRT :1 ;RF Transceiver PreProduction Sample Wireless Transceiver
+QFN50P400X400X100-25N-D
+*STM IC
+*NGS
+*PLB 1="VR_PA" 2="VDD_IN" 3="NRESET" 4="XTA" 5="GND_1" 6="XTB" 7="BUSY" 8="DIO1" 9="DIO2" 10="DIO3" 11="VBAT_IO" 12="DCC_FB" 13="GND_2" 14="DCC_SW" 15="VBAT" 16="MISO_TX" 17="MOSI_RX" 18="SCK_RTSN" 19="NSS_CTS" 20="GND_3" 21="GND_4" 22="RFIO" 23="GND_5" 24="GND_6" 25="EP"
+*MXP 25
+*DFN SX1281IMLTRT
+~!Mouser Part Number (947-SX1281IMLTRT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Semtech/SX1281IMLTRT?qs=5aG0NVq1C4xR1aFoShVcjg%3D%3D)
+~!Manufacturer_Name (SEMTECH)
+~!Manufacturer_Part_Number (SX1281IMLTRT)
+~!Link Datasheet (https://www.arrow.com/en/products/sx1281imltrt/semtech)
+~!Height (1mm)
+~!3D_Model (SX1281IMLTRT)
+SX1281IMLTRT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 
